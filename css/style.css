@@ -1,0 +1,80 @@
+
+  header img {
+    width: 100px;
+  }
+  
+  header nav {
+    float: right;
+  }
+  
+  header nav ul {
+    list-style: none;
+  }
+  
+  header nav ul li {
+    float: right;
+    padding: 20px;
+  }
+  
+  main img {
+    width: 100%;
+  }
+  
+  main h1 {
+    text-align: center;
+    color: #222;
+    background: #228B22;
+  }
+
+
+  
+  main h2 {
+    text-align: center;
+    background: #DCDCDC;
+    color:#8B0000;
+  }
+  main h2 p  {
+    text-align: left;
+    color: #8B0000;
+  }
+
+  main h3 {
+    text-align: center;
+    color: #4B0082;
+    background: #DEB887;
+  }
+}
+main h3 p  {
+  text-align: left;
+  color: #4B0082;
+}
+
+  main h4 {
+    text-align: center;
+    color:#C71585;
+    background: #F0FFFF;
+  }
+  main h4 p  {
+    text-align: left;
+    color:#C71585;
+  }
+
+  main h5 {
+    text-align: center;
+    color: #222;
+    background: #FFE4C4;
+  }
+  
+  main h5 p  {
+    text-align: left;
+    color: #222;
+  }
+
+ 
+  
+  footer {
+    text-align: center;
+    background: #F5F5DC;
+    color: #7FFF00;
+    line-height: 50px
+  }
